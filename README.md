@@ -1,4 +1,4 @@
-👋 Hi, Gilbert Addae  
+👋 Hi, im Gilbert 
 👀 I’m interested in agricultural research, data science, and sustainable food systems.  
 🌱 I’m currently learning R, Python, and econometric modeling techniques to support evidence-based research.  
 💞️ I’m looking to collaborate on projects in agri-tech, food security, and development economics, impact evaluation, production economics, agricultural policIE.
